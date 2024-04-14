@@ -279,9 +279,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif 
 ```
 ## Output screen shots of proteus  :
-### LED OFF:
+### LCD OFF:
 ![EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-](off.png)
-### LED ON:
+### LCD ON:
 ![EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-](on.jpg)
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 ![EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-](cir.png) 
